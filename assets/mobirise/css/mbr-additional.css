@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -489,6 +490,24 @@ h6,
 #social-buttons4-a .btn-social {
   color: #fff;
 }
+
+#msg-box1-i I {
+  font-size: 36px;
+  text-align: right;
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box8-g .mbr-section-title,
+#msg-box8-g p {
+  color: #fff;
+}
+#msg-box8-g .lead BLOCKQUOTE {
+  text-align: right;
+}
+#msg-box8-g .lead B {
+  text-align: center;
+  color: #efefef;
+  font-size: 20px;
+}
 #ext_menu-b .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -549,8 +568,4 @@ h6,
 #ext_menu-b .link[aria-expanded="true"],
 #ext_menu-b .dropdown-item[aria-expanded="true"] {
   color: #b8312f!important;
-}
-#msg-box8-g .mbr-section-title,
-#msg-box8-g p {
-  color: #fff;
 }

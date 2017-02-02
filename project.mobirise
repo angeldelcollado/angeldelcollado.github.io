@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-30_0957",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 18,
+    "uniqCompNum": 19,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -116,6 +116,9 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "cloud",
+              "family": "et-line",
               "link": "https://mobirise.com",
               "size": 0
             }
@@ -393,6 +396,86 @@
       },
       "components": [
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-i",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Click Here&nbsp;To Return<br></a>",
+          "text": "",
+          "title": "<i>Return To Home Page</i>",
+          "_styles": {
+            "I": {
+              "font-size": "36px",
+              "text-align": "right",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead BLOCKQUOTE": {
+              "text-align": "right"
+            },
+            ".lead B": {
+              "text-align": "center",
+              "color": "#efefef",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-g",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/lava-and-cherry-blossom-tree-2000x533.png",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Some Of &nbsp;My Work",
+          "text": "<blockquote><b style=\"font-family: Lora, serif; font-size: 1.09rem; font-style: italic; line-height: 1.5;\">\"Work hard for what you want because it won't come to you without a fight. You have to be strong and courageous and know that you can do anything you put your mind to. If somebody puts you down or criticizes you, just keep on believing in yourself and turn it into something positive.&nbsp;</b><b style=\"font-size: 1.09rem; line-height: 1.5;\">\"&nbsp;</b></blockquote>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
           "_inherit": "menu",
           "_tags": [
             "Theme"
@@ -567,7 +650,47 @@
                 "thumb": "@PROJECT_PATH@/assets/images/poster-1-2000x2962-800x1184.jpg",
                 "image": "@PROJECT_PATH@/assets/images/poster-1-2000x2962.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Photoshop",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poster-1-2000x516-800x206.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poster-1-2000x516.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Photoshop",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poster-2-2000x516-800x206.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poster-2-2000x516.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Photoshop",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poster-3-2000x516-800x206.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poster-3-2000x516.jpg",
+                "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Photoshop",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poster-1-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poster-1-2000x2962.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": 1,
@@ -601,40 +724,6 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Angel Del Collado."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-g",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/lava-and-cherry-blossom-tree-2000x533.png",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         }
       ]
     }
