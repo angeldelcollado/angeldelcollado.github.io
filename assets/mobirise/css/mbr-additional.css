@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -489,12 +488,6 @@ h6,
 #social-buttons4-a .mbr-section-title,
 #social-buttons4-a .btn-social {
   color: #fff;
-}
-
-#msg-box1-i I {
-  font-size: 36px;
-  text-align: right;
-  font-family: 'Oswald', sans-serif;
 }
 #msg-box8-g .mbr-section-title,
 #msg-box8-g p {
