@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-30_0957",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -565,7 +565,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Photoshop",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -642,17 +642,47 @@
                 "thumb": "@PROJECT_PATH@/assets/images/poster-3-2000x516-800x206.jpg",
                 "image": "@PROJECT_PATH@/assets/images/poster-3-2000x516.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
-                "tags": "Photoshop",
+                "tags": "Illustrator",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/poster-1-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/poster-1-2000x2962.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattoo-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tattoo-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Illustrator",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vw-logo-completed-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vw-logo-completed-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustrator",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lightning-bolt-completed-2000x1088-800x435.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lightning-bolt-completed-2000x1088.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Illustrator",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/batman-logo-2-with-title-2000x1271-800x508.jpg",
+                "image": "@PROJECT_PATH@/assets/images/batman-logo-2-with-title-2000x1271.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": 1,
