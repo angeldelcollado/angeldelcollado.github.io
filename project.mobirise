@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-30_0957",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -432,7 +432,7 @@
             },
             ".lead B": {
               "text-align": "center",
-              "color": "#efefef",
+              "color": "#ffffff",
               "font-size": "20px"
             }
           },
