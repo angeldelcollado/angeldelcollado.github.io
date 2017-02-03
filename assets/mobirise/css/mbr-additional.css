@@ -499,6 +499,12 @@ h6,
 #msg-box8-q .lead BLOCKQUOTE {
   color: #efefef;
 }
+#msg-box8-q .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box8-q .lead B {
+  color: #ffffff;
+}
 #ext_menu-b .hide-buttons .nav-btn {
   display: none !important;
 }

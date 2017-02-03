@@ -434,6 +434,12 @@
             },
             ".lead BLOCKQUOTE": {
               "color": "#efefef"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".lead B": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
