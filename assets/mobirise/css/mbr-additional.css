@@ -492,17 +492,12 @@ h6,
 #contacts2-n UL {
   color: #b8312f;
 }
-#msg-box8-g .mbr-section-title,
-#msg-box8-g p {
+#msg-box8-q .mbr-section-title,
+#msg-box8-q p {
   color: #fff;
 }
-#msg-box8-g .lead BLOCKQUOTE {
-  text-align: right;
-}
-#msg-box8-g .lead B {
-  text-align: center;
-  color: #000000;
-  font-size: 20px;
+#msg-box8-q .lead BLOCKQUOTE {
+  color: #efefef;
 }
 #ext_menu-b .hide-buttons .nav-btn {
   display: none !important;

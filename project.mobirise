@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 24,
+    "uniqCompNum": 27,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -433,22 +433,17 @@
               "color": "#fff"
             },
             ".lead BLOCKQUOTE": {
-              "text-align": "right"
-            },
-            ".lead B": {
-              "text-align": "center",
-              "color": "#000000",
-              "font-size": "20px"
+              "color": "#efefef"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-g",
+          "_anchor": "msg-box8-q",
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/lava-and-cherry-blossom-tree-2000x533.png",
@@ -465,8 +460,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "Some Of &nbsp;My Work",
-          "text": "<blockquote><b style=\"font-family: Lora, serif; font-size: 1.09rem; font-style: italic; line-height: 1.5;\">\"Work hard for what you want because it won't come to you without a fight. You have to be strong and courageous and know that you can do anything you put your mind to. If somebody puts you down or criticizes you, just keep on believing in yourself and turn it into something positive.&nbsp;</b><b style=\"font-size: 1.09rem; line-height: 1.5;\">\"&nbsp;</b></blockquote>",
+          "title": "Some Of  My Work",
+          "text": "<blockquote><b>\"Work hard for what you want because it won't come to you without a fight. You have to be strong and courageous and know that you can do anything you put your mind to. If somebody puts you down or criticizes you, just keep on believing in yourself and turn it into something positive. \".</b></blockquote>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
