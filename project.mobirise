@@ -731,8 +731,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/discuss-it-topic-6-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/discuss-it-topic-6-2000x2962.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/discuss-it-topic-5-2000x2640-800x1056.jpg",
+                "image": "@PROJECT_PATH@/assets/images/discuss-it-topic-5-2000x2640.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -741,8 +741,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/discuss-it-topic-6-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/discuss-it-topic-6-2000x2962.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/discuss-it-topic-3-2000x2640-800x1056.jpg",
+                "image": "@PROJECT_PATH@/assets/images/discuss-it-topic-3-2000x2640.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -751,8 +751,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/discuss-it-topic-6-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/discuss-it-topic-6-2000x2962.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rene-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rene-2000x2962.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
