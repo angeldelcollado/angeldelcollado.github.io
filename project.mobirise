@@ -760,7 +760,7 @@
             "spacing": 1,
             "showText": false,
             "filter": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#efefef",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
