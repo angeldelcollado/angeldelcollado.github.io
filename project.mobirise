@@ -49,13 +49,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#b8312f"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#b8312f"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#b8312f"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -76,7 +76,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#b8312f",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -95,9 +95,9 @@
             "bgColor": "#ffffff",
             "fontSize": "0.85",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#b8312f",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -483,13 +483,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#b8312f"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#b8312f"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#b8312f"
             },
             ".link": {
               "font-size": "0.85rem"
@@ -510,7 +510,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#b8312f",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -529,9 +529,9 @@
             "bgColor": "#ffffff",
             "fontSize": "0.85",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#b8312f",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -541,7 +541,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-582x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-384x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -857,9 +857,9 @@
             "bgColor": "#ffffff",
             "fontSize": "0.85",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#b8312f",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
