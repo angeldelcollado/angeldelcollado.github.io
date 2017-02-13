@@ -566,6 +566,12 @@ h6,
 #ext_menu-b .dropdown-item[aria-expanded="true"] {
   color: #b8312f!important;
 }
+#gallery4-t LI {
+  color: #b8312f;
+}
+#contacts2-n UL {
+  color: #b8312f;
+}
 #ext_menu-j .hide-buttons .nav-btn {
   display: none !important;
 }
