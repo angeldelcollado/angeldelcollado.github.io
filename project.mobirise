@@ -848,7 +848,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-384x1280.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-384x1281.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
