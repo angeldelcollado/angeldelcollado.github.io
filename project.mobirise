@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 31,
+    "uniqCompNum": 32,
     "versionPublish": "3.11.1",
     "path": "file:///C:/Users/0221719/Desktop",
     "screenshot": "screenshot.png"
@@ -158,7 +158,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/file-1400x1866.jpg",
+              "src": "@PROJECT_PATH@/assets/images/file-000-1-1400x1866.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -392,16 +392,11 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts2",
-          "_styles": {
-            "UL": {
-              "color": "#b8312f"
-            }
-          },
-          "_anchor": "contacts2-n",
+          "_name": "contacts3",
+          "_anchor": "contacts3-v",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -409,16 +404,88 @@
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C",
-            "googleMap": {
-              "address": "15015 SW 24th Street, Miami, FL 33185",
-              "placeId": "ChIJJ8Tvqe6_2YgRDWmT5iLUDu0",
-              "state": "ok",
-              "stateDetails": ""
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-265x198.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>15015 SW 24th Street, Miami, FL 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail: Adelcollado@miamiartsstudio.com<br>\nPhone: (786)-443-5122<br><br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"page1.html\">Applications</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a class=\"text-primary\" href=\"page2.html\">Contact Me</a></li><li><a href=\"index.html#header3-3\">Introduction</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
+          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "(786)-443-5122<br>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "1234 Street Name, City AA 99999",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<a href=\"mailto:support@mobirise.com\">Adelcollado@miamiartsstudio.com</a>",
+          "title1": "Categories",
+          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: Adelcollado@miamiartsstudio.com<br>Phone: (786)-443-5122<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "form": {
+            "title": "MESSAGE",
+            "action": "adelcollado@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         }
       ]
     },
@@ -500,7 +567,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-384x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-384x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -851,7 +918,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-384x1283.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-384x1284.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
