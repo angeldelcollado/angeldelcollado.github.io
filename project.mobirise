@@ -24,7 +24,9 @@
     "uniqCompNum": 37,
     "versionPublish": "3.11.1",
     "path": "file:///C:/Users/0221719/Desktop",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/file-000-1-128x170.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -549,7 +551,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-384x1286.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-384x1288.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -900,7 +902,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-384x1286.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-384x1288.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
