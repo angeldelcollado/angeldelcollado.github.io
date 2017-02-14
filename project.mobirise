@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 32,
+    "uniqCompNum": 37,
     "versionPublish": "3.11.1",
     "path": "file:///C:/Users/0221719/Desktop",
     "screenshot": "screenshot.png"
@@ -132,53 +132,35 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "header2",
-          "_anchor": "header2-2",
+          "_name": "header1",
+          "_anchor": "header1-10",
           "_params": {
-            "imageSize": "29",
             "parallax": true,
             "bgImageRadio": true,
+            "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/fotka-2000x1500.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "inverse": false,
+            "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
-            "showArrow": true
+            "showButtons": true
           },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/file-000-1-1400x1866.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
+          "title": "ANGEL DEL COLLADO",
+          "text": "",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"index.html#header3-3\" data-toolbar=\"-mbrBtnMove\">A little About Me</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#cccccc"
             }
-          },
-          "title": "A Little About Me<br>",
-          "text": "Ever since &nbsp;I started school I've always had a liking for technology and taking care of my grades . I've always kept my grades good while still being able to follow my interests in technology.My interests for technology became stronger when I got accepted into a technology magnet program where I was &nbsp;determined to follow my dreams and turn them into a reality. &nbsp;The tech magnet program persuaded me to force myself to learn new skills that can be applied to my advantage in the future.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html#content6-4\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          }
         },
         {
           "_inherit": "features3",
@@ -395,8 +377,8 @@
           "_name": "contacts3",
           "_anchor": "contacts3-v",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -408,7 +390,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-265x198.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-265x212.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -423,7 +405,7 @@
               "size": 0
             }
           },
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
@@ -443,7 +425,7 @@
               "family": "et-line"
             }
           },
-          "text3": "1234 Street Name, City AA 99999",
+          "text3": "2203 sw 138 ct, 33175 Miami,FL",
           "media3": {
             "iconFont": {
               "active": true,
@@ -456,7 +438,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">Adelcollado@miamiartsstudio.com</a>",
           "title1": "Categories",
           "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: Adelcollado@miamiartsstudio.com<br>Phone: (786)-443-5122<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "text6": "<strong>Contacts</strong><br>Email: Adelcollado@miamiartsstudio.com<br>Phone: (786)-443-5122<br><br><br><strong>Address</strong><br>2203 sw 138 ct, 33175 Miami,FL<br>",
           "form": {
             "title": "MESSAGE",
             "action": "adelcollado@miamiartsstudio.com",
@@ -485,7 +467,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
         }
       ]
     },
@@ -567,7 +549,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-384x1284.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-384x1285.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -918,7 +900,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-384x1284.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-384x1285.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
