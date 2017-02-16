@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-30_0957",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 32,
+    "uniqCompNum": 40,
     "versionPublish": "3.11.1",
     "path": "file:///C:/Users/0221719/Desktop",
     "screenshot": "screenshot.png",
@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content6-4\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ADOBE SUITE<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Adobe PhotoShop<br>Adobe Illustrator<br>Adobe Animate<br>Adobe Premiere<br>123D<br></a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MICROSOFT SUITE<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MICROSOFT WORD</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Discuss IT\">DISCUSS IT TOPIC 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFRENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher Recommendation</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"line-height: 1.5; background-color: rgb(0, 0, 0); display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Resume</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ADOBE SUITE<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Adobe PhotoShop<br>Adobe Illustrator<br>Adobe Animate<br>Adobe Premiere<br>123D<br></a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MICROSOFT SUITE<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MICROSOFT WORD</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Discuss IT\">DISCUSS IT TOPIC 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFRENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher Recommendation</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"line-height: 1.5; background-color: rgb(0, 0, 0); display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Resume</a></li>"
         },
         {
           "_tags": [
@@ -157,168 +157,7 @@
           },
           "title": "ANGEL DEL COLLADO",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#header3-3\" data-toolbar=\"-mbrBtnMove\">A Little About Me</a> "
-        },
-        {
-          "_inherit": "features3",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features6",
-          "_anchor": "features6-9",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "gears",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#b8312f"
-            }
-          },
-          "title1": "IT Manager",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Having the responsibility of taking care and fixing computers for an entire school is my dream job i have had an interest in computers since a very small age. Seeing how computers work and all of the parts of a computer facinate me and how it all comes together like a puzzle.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "genius",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#b8312f"
-            }
-          },
-          "title2": "Anesthesiologist",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "&nbsp;Having all that responsibility sounds thrilling. Whenever i would go to the hospital i would always be most interested in the&nbsp;Anesthesiologist. This is something that facinates me, the patients life is partly in my hands an i love that feeling.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "apple",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#b8312f"
-            }
-          },
-          "title3": "Software Developer",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "I have always been a tech user, ever since i was small I would not like writing on paper i would always use technology. Seeing how much it helped me advance in my likings in technology i would like to develop software to help other kids accquire a liking for technology.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "camera",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#b8312f"
-            }
-          },
-          "title4": "Photographer",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "I have always enjoyed taking pictures of the nature and of sunsets but i can turn that hobbie into a profession by charging people for hiring me to take pictures of them in special occasions. Like Baby showers, Weddings, Graduations, ext.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-3",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff",
-            "showMeta": true
-          },
-          "title": "A Little About Me",
-          "meta": "By Angel Del Collado posted February 01, 2017"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "content6-4",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "text1": "<p>Ever since  I started school I've always had a liking for technology and taking care of my grades . I've always kept my grades good while still being able to follow my interests in technology.My interests for technology became stronger when I got accepted into a technology magnet program where I was  determined to follow my dreams and turn them into a reality.&nbsp;</p>",
-          "text2": "<p>The tech magnet program persuaded me to force myself to learn new skills that can be applied to my advantage in the future. Technology Production is a dream I've had since I was a child. I'm absolutely determined to complete this goal and live a educated life.</p>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Introduction Page</a> "
         },
         {
           "_tags": [
@@ -472,7 +311,7 @@
       "settings": {
         "title": "Web Page Builder Title",
         "meta_descr": "Web Page Builder Description",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -563,7 +402,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content6-4\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ADOBE SUITE<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Adobe PhotoShop<br>Adobe Illustrator<br>Adobe Animate<br>Adobe Premiere<br>123D<br></a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MICROSOFT SUITE<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MICROSOFT WORD</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Discuss IT\">DISCUSS IT TOPIC 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFRENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher Recommendation</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"line-height: 1.5; background-color: rgb(0, 0, 0); display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Resume</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ADOBE SUITE<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Adobe PhotoShop<br>Adobe Illustrator<br>Adobe Animate<br>Adobe Premiere<br>123D<br></a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MICROSOFT SUITE<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MICROSOFT WORD</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Discuss IT\">DISCUSS IT TOPIC 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFRENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher Recommendation</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"line-height: 1.5; background-color: rgb(0, 0, 0); display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Resume</a></li>"
         },
         {
           "_styles": {
@@ -792,6 +631,464 @@
           ],
           "_name": "contacts3",
           "_anchor": "contacts3-v",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/untitled-265x212.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "(786)-443-5122<br>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "2203 sw 138 ct, 33175 Miami,FL",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "<a href=\"mailto:support@mobirise.com\">Adelcollado@miamiartsstudio.com</a>",
+          "title1": "Categories",
+          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: Adelcollado@miamiartsstudio.com<br>Phone: (786)-443-5122<br><br><br><strong>Address</strong><br>2203 sw 138 ct, 33175 Miami,FL<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "adelcollado@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Web Site Generator Title",
+        "meta_descr": "Web Site Generator Description",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#b8312f"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#b8312f"
+            },
+            ".link, .dropdown-item": {
+              "color": "#b8312f"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#b8312f",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#b8312f!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-w",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#b8312f",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-384x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "cloud",
+              "family": "et-line",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ADOBE SUITE<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Adobe PhotoShop<br>Adobe Illustrator<br>Adobe Animate<br>Adobe Premiere<br>123D<br></a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MICROSOFT SUITE<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">MICROSOFT WORD</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Discuss IT\">DISCUSS IT TOPIC 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFRENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher Recommendation</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"line-height: 1.5; background-color: rgb(0, 0, 0); display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Resume</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-x",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Angel Del Collado. All Rights Reserved."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-12",
+          "_params": {
+            "imageSize": "29",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fotka-2000x1500-1.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/file-000-1-1400x1866.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "A Little About Me<br>",
+          "text": "Ever since &nbsp;I started school I've always had a liking for technology and taking care of my grades . I've always kept my grades good while still being able to follow my interests in technology.My interests for technology became stronger when I got accepted into a technology magnet program where I was &nbsp;determined to follow my dreams and turn them into a reality. &nbsp;The tech magnet program persuaded me to force myself to learn new skills that can be applied to my advantage in the future.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html#content6-4\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_anchor": "features6-z",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "gears",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#b8312f"
+            }
+          },
+          "title1": "IT Manager",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Having the responsibility of taking care and fixing computers for an entire school is my dream job i have had an interest in computers since a very small age. Seeing how computers work and all of the parts of a computer facinate me and how it all comes together like a puzzle.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "genius",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#b8312f"
+            }
+          },
+          "title2": "Anesthesiologist",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "&nbsp;Having all that responsibility sounds thrilling. Whenever i would go to the hospital i would always be most interested in the&nbsp;Anesthesiologist. This is something that facinates me, the patients life is partly in my hands an i love that feeling.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "apple",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#b8312f"
+            }
+          },
+          "title3": "Software Developer",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "I have always been a tech user, ever since i was small I would not like writing on paper i would always use technology. Seeing how much it helped me advance in my likings in technology i would like to develop software to help other kids accquire a liking for technology.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "camera",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#b8312f"
+            }
+          },
+          "title4": "Photographer",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "I have always enjoyed taking pictures of the nature and of sunsets but i can turn that hobbie into a profession by charging people for hiring me to take pictures of them in special occasions. Like Baby showers, Weddings, Graduations, ext.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-10",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "A Little About Me",
+          "meta": "By Angel Del Collado posted February 01, 2017"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content6-11",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text1": "<p>Ever since  I started school I've always had a liking for technology and taking care of my grades . I've always kept my grades good while still being able to follow my interests in technology.My interests for technology became stronger when I got accepted into a technology magnet program where I was  determined to follow my dreams and turn them into a reality.&nbsp;</p>",
+          "text2": "<p>The tech magnet program persuaded me to force myself to learn new skills that can be applied to my advantage in the future. Technology Production is a dream I've had since I was a child. I'm absolutely determined to complete this goal and live a educated life.</p>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-13",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/landscape-nature-clouds-cloudy-2000x7670.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW ME",
+          "icons": "  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-y",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
