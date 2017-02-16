@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "NewSite-01-30_0957",
-    "currentPage": "page2.html",
+    "name": "Angel Del Collado Site",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -211,7 +211,7 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-v",
+          "_anchor": "contacts3-y",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -229,7 +229,6 @@
               "src": "@PROJECT_PATH@/assets/images/untitled-265x212.png",
               "class": "card-img-top",
               "width": 265,
-              "active": true,
               "link": "",
               "alt": "",
               "title": "",
@@ -237,38 +236,49 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "linkInNewWindow": false,
+              "name": "compass",
+              "family": "et-line",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true,
+              "color": "#b8312f"
             }
           },
           "text1": "",
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
               "name": "phone",
+              "family": "et-line",
+              "active": true,
               "size": 0,
-              "family": "et-line"
+              "color": "#b8312f"
             }
           },
           "text2": "(786)-443-5122<br>",
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
               "name": "map-pin",
+              "family": "et-line",
+              "active": true,
               "size": 0,
-              "family": "et-line"
+              "color": "#b8312f"
             }
           },
           "text3": "2203 sw 138 ct, 33175 Miami,FL",
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
               "name": "envelope",
+              "family": "et-line",
+              "active": true,
               "size": 0,
-              "family": "et-line"
+              "color": "#b8312f"
             }
           },
           "text4": "<a href=\"mailto:support@mobirise.com\">Adelcollado@miamiartsstudio.com</a>",
@@ -630,7 +640,7 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-v",
+          "_anchor": "contacts3-y",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -648,7 +658,6 @@
               "src": "@PROJECT_PATH@/assets/images/untitled-265x212.png",
               "class": "card-img-top",
               "width": 265,
-              "active": true,
               "link": "",
               "alt": "",
               "title": "",
@@ -656,38 +665,49 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "linkInNewWindow": false,
+              "name": "compass",
+              "family": "et-line",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true,
+              "color": "#b8312f"
             }
           },
           "text1": "",
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
               "name": "phone",
+              "family": "et-line",
+              "active": true,
               "size": 0,
-              "family": "et-line"
+              "color": "#b8312f"
             }
           },
           "text2": "(786)-443-5122<br>",
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
               "name": "map-pin",
+              "family": "et-line",
+              "active": true,
               "size": 0,
-              "family": "et-line"
+              "color": "#b8312f"
             }
           },
           "text3": "2203 sw 138 ct, 33175 Miami,FL",
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
               "name": "envelope",
+              "family": "et-line",
+              "active": true,
               "size": 0,
-              "family": "et-line"
+              "color": "#b8312f"
             }
           },
           "text4": "<a href=\"mailto:support@mobirise.com\">Adelcollado@miamiartsstudio.com</a>",
@@ -1034,7 +1054,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/landscape-nature-clouds-cloudy-2000x7672.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/landscape-nature-clouds-cloudy-2000x7673.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": false,
@@ -1067,7 +1087,6 @@
               "src": "@PROJECT_PATH@/assets/images/untitled-265x212.png",
               "class": "card-img-top",
               "width": 265,
-              "active": true,
               "link": "",
               "alt": "",
               "title": "",
