@@ -620,6 +620,12 @@ h6,
 #ext_menu-u .dropdown-item[aria-expanded="true"] {
   color: #b8312f!important;
 }
+#header1-v .mbr-section-lead {
+  color: #ffffff;
+}
+#header1-v .mbr-section-title {
+  color: #b8312f;
+}
 #social-buttons4-a .mbr-section-title,
 #social-buttons4-a .btn-social {
   color: #fff;
