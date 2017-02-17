@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Angel Del Collado Site",
-    "currentPage": "Gallery",
+    "currentPage": "landing",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1078,7 +1078,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/landscape-nature-clouds-cloudy-2000x7674.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/landscape-nature-clouds-cloudy-2000x7675.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": false,
