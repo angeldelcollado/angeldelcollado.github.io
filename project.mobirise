@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Angel Del Collado Site",
-    "currentPage": "landing",
+    "currentPage": "Gallery",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -352,6 +352,14 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "H4": {
+              "color": "#efefef"
+            },
+            "STRONG": {
+              "color": "#efefef"
+            }
+          },
           "_anchor": "contacts3-y",
           "_params": {
             "paddingTop": "2",
@@ -383,7 +391,7 @@
               "link": "",
               "size": 0,
               "active": true,
-              "color": "#b8312f"
+              "color": "#cccccc"
             }
           },
           "text1": "",
@@ -395,7 +403,7 @@
               "family": "et-line",
               "active": true,
               "size": 0,
-              "color": "#b8312f"
+              "color": "#cccccc"
             }
           },
           "text2": "(786)-443-5122<br>",
@@ -407,7 +415,7 @@
               "family": "et-line",
               "active": true,
               "size": 0,
-              "color": "#b8312f"
+              "color": "#cccccc"
             }
           },
           "text3": "2203 sw 138 ct, 33175 Miami,FL",
@@ -419,7 +427,7 @@
               "family": "et-line",
               "active": true,
               "size": 0,
-              "color": "#b8312f"
+              "color": "#cccccc"
             }
           },
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-white\">Adelcollado@miamiartsstudio.com</a>",
@@ -454,15 +462,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>",
-          "_styles": {
-            "H4": {
-              "color": "#efefef"
-            },
-            "STRONG": {
-              "color": "#efefef"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
         }
       ]
     },
@@ -789,6 +789,14 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "H4": {
+              "color": "#efefef"
+            },
+            "STRONG": {
+              "color": "#efefef"
+            }
+          },
           "_anchor": "contacts3-y",
           "_params": {
             "paddingTop": "2",
@@ -820,7 +828,7 @@
               "link": "",
               "size": 0,
               "active": true,
-              "color": "#b8312f"
+              "color": "#cccccc"
             }
           },
           "text1": "",
@@ -832,7 +840,7 @@
               "family": "et-line",
               "active": true,
               "size": 0,
-              "color": "#b8312f"
+              "color": "#cccccc"
             }
           },
           "text2": "(786)-443-5122<br>",
@@ -844,7 +852,7 @@
               "family": "et-line",
               "active": true,
               "size": 0,
-              "color": "#b8312f"
+              "color": "#cccccc"
             }
           },
           "text3": "2203 sw 138 ct, 33175 Miami,FL",
@@ -856,7 +864,7 @@
               "family": "et-line",
               "active": true,
               "size": 0,
-              "color": "#b8312f"
+              "color": "#cccccc"
             }
           },
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-white\">Adelcollado@miamiartsstudio.com</a>",
@@ -891,15 +899,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>",
-          "_styles": {
-            "H4": {
-              "color": "#efefef"
-            },
-            "STRONG": {
-              "color": "#efefef"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
         }
       ]
     },
@@ -1078,7 +1078,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/landscape-nature-clouds-cloudy-2000x7673.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/landscape-nature-clouds-cloudy-2000x7674.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": false,
