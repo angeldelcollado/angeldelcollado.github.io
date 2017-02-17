@@ -494,6 +494,12 @@ h6,
 #gallery4-t LI {
   color: #b8312f;
 }
+#contacts3-y H4 {
+  color: #efefef;
+}
+#contacts3-y STRONG {
+  color: #efefef;
+}
 #ext_menu-w .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -558,6 +564,12 @@ h6,
 #social-buttons4-13 .mbr-section-title,
 #social-buttons4-13 .btn-social {
   color: #fff;
+}
+#contacts3-y H4 {
+  color: #efefef;
+}
+#contacts3-y STRONG {
+  color: #efefef;
 }
 #ext_menu-u .hide-buttons .nav-btn {
   display: none !important;
@@ -629,4 +641,10 @@ h6,
 #social-buttons4-a .mbr-section-title,
 #social-buttons4-a .btn-social {
   color: #fff;
+}
+#contacts3-y H4 {
+  color: #efefef;
+}
+#contacts3-y STRONG {
+  color: #efefef;
 }
