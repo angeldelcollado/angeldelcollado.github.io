@@ -518,11 +518,11 @@ h6,
   color: #b8312f;
 }
 #ext_menu-w .link {
-  font-size: 0.95rem;
+  font-size: 0.85rem;
 }
 #ext_menu-w .dropdown-item,
 #ext_menu-w .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.921rem;
 }
 #ext_menu-w .link:hover,
 #ext_menu-w .dropdown-item:hover,
@@ -632,10 +632,10 @@ h6,
 #ext_menu-u .dropdown-item[aria-expanded="true"] {
   color: #b8312f!important;
 }
-#header1-v .mbr-section-lead {
+#header1-y .mbr-section-lead {
   color: #ffffff;
 }
-#header1-v .mbr-section-title {
+#header1-y .mbr-section-title {
   color: #b8312f;
 }
 #social-buttons4-a .mbr-section-title,
