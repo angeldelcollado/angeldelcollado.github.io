@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 35,
+    "uniqCompNum": 31,
     "versionPublish": "3.11.1",
     "path": "file:///C:/Users/0221719/Desktop",
     "screenshot": "screenshot.png",
@@ -1078,7 +1078,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/landscape-nature-clouds-cloudy-2000x76715.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/landscape-nature-clouds-cloudy-2000x7670.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": false,
@@ -1156,6 +1156,14 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "H4": {
+              "color": "#efefef"
+            },
+            "STRONG": {
+              "color": "#efefef"
+            }
+          },
           "_anchor": "contacts3-y",
           "_params": {
             "paddingTop": "2",
@@ -1258,15 +1266,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>",
-          "_styles": {
-            "H4": {
-              "color": "#efefef"
-            },
-            "STRONG": {
-              "color": "#efefef"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
         }
       ]
     }
