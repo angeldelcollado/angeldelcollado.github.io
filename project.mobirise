@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 31,
+    "uniqCompNum": 34,
     "versionPublish": "3.11.1",
     "path": "file:///C:/Users/0221719/Desktop",
     "screenshot": "screenshot.png",
@@ -466,10 +466,14 @@
         }
       ]
     },
-    "introduction": {
+    "landing": {
       "settings": {
+        "main": true,
         "title": "Angel Del Collado",
         "meta_descr": "Angel Del Collado",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
         "order": 2
       },
       "components": [
@@ -527,7 +531,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-w",
+          "_anchor": "ext_menu-u",
           "_params": {
             "bgColor": "#ffffff",
             "fontSize": "0.85",
@@ -568,7 +572,7 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-x",
+          "_anchor": "footer1-5",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -588,7 +592,7 @@
             "Theme"
           ],
           "_name": "header2",
-          "_anchor": "header2-12",
+          "_anchor": "header2-x",
           "_params": {
             "imageSize": "29",
             "parallax": true,
@@ -601,7 +605,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.6",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -636,128 +640,6 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html#content6-4\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
-          "_inherit": "features3",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features6",
-          "_anchor": "features6-z",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "gears",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#b8312f"
-            }
-          },
-          "title1": "IT Manager",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Having the responsibility of taking care and fixing computers for an entire school is my dream job i have had an interest in computers since a very small age. Seeing how computers work and all of the parts of a computer facinate me and how it all comes together like a puzzle.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "genius",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#b8312f"
-            }
-          },
-          "title2": "Anesthesiologist",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "&nbsp;Having all that responsibility sounds thrilling. Whenever i would go to the hospital i would always be most interested in the&nbsp;Anesthesiologist. This is something that facinates me, the patients life is partly in my hands an i love that feeling.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "apple",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#b8312f"
-            }
-          },
-          "title3": "Software Developer",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "I have always been a tech user, ever since i was small I would not like writing on paper i would always use technology. Seeing how much it helped me advance in my likings in technology i would like to develop software to help other kids accquire a liking for technology.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "camera",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#b8312f"
-            }
-          },
-          "title4": "Photographer",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "I have always enjoyed taking pictures of the nature and of sunsets but i can turn that hobbie into a profession by charging people for hiring me to take pictures of them in special occasions. Like Baby showers, Weddings, Graduations, ext.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
           "_inherit": "social-buttons2",
           "_styles": {
             ".mbr-section-title, .btn-social": {
@@ -768,7 +650,7 @@
             "Theme"
           ],
           "_name": "social-buttons4",
-          "_anchor": "social-buttons4-13",
+          "_anchor": "social-buttons4-a",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -783,6 +665,69 @@
           },
           "text": "FOLLOW ME",
           "icons": "  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x1353-800x541.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2000x1353.jpg",
+                "caption": "Illustrator PostCard Front Piece",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-1-2000x1353-800x541.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-1-2000x1353.jpg",
+                "caption": "Illustrator PostCard Back Piece",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/image-1-2000x1353-800x541.jpg",
+                "image": "@PROJECT_PATH@/assets/images/image-1-2000x1353.jpg",
+                "caption": "PhotoShop Perspective Piece",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2-2000x1353-800x541.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2-2000x1353.jpg",
+                "caption": "Orchestra PhotoShop&nbsp;Piece",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": true,
+            "filter": false,
+            "bgColor": "#262626",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-x",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_tags": [
@@ -903,14 +848,10 @@
         }
       ]
     },
-    "landing": {
+    "index": {
       "settings": {
-        "main": true,
         "title": "Angel Del Collado",
         "meta_descr": "Angel Del Collado",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
         "order": 1
       },
       "components": [
@@ -968,7 +909,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-u",
+          "_anchor": "ext_menu-w",
           "_params": {
             "bgColor": "#ffffff",
             "fontSize": "0.85",
@@ -1009,7 +950,7 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-5",
+          "_anchor": "footer1-x",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -1037,12 +978,12 @@
               "color": "#b8312f"
             }
           },
-          "_anchor": "header1-y",
+          "_anchor": "header1-v",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fotka-2000x1500-2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/fotka-2000x1500-4.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1072,13 +1013,13 @@
             "Theme"
           ],
           "_name": "social-buttons4",
-          "_anchor": "social-buttons4-a",
+          "_anchor": "social-buttons4-13",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/landscape-nature-clouds-cloudy-2000x7672.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/landscape-nature-clouds-cloudy-2000x7671.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": false,
@@ -1103,8 +1044,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x1353-800x541.jpg",
-                "image": "@PROJECT_PATH@/assets/images/untitled-2000x1353.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x1353-800x541-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2000x1353-1.jpg",
                 "caption": "Illustrator PostCard Front Piece",
                 "active": false
               },
@@ -1113,8 +1054,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-1-2000x1353-800x541.jpg",
-                "image": "@PROJECT_PATH@/assets/images/untitled-1-2000x1353.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-1-2000x1353-800x541-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-1-2000x1353-1.jpg",
                 "caption": "Illustrator PostCard Back Piece",
                 "active": false
               },
@@ -1123,8 +1064,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/image-1-2000x1353-800x541.jpg",
-                "image": "@PROJECT_PATH@/assets/images/image-1-2000x1353.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/image-1-2000x1353-800x541-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/image-1-2000x13530.jpg",
                 "caption": "PhotoShop Perspective Piece",
                 "active": false
               },
@@ -1133,8 +1074,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-2-2000x1353-800x541.jpg",
-                "image": "@PROJECT_PATH@/assets/images/untitled-2-2000x1353.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2-2000x1353-800x541-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2-2000x1353-1.jpg",
                 "caption": "Orchestra PhotoShop&nbsp;Piece",
                 "active": true
               }
@@ -1147,7 +1088,7 @@
             "fullWidth": false,
             "showBullets": true
           },
-          "_anchor": "gallery2-x",
+          "_anchor": "gallery2-w",
           "articleLayout": false,
           "allItem": "All"
         },
