@@ -740,6 +740,9 @@
             },
             "STRONG": {
               "color": "#efefef"
+            },
+            "I": {
+              "color": "#efefef"
             }
           },
           "_anchor": "contacts3-y",
@@ -800,7 +803,7 @@
               "color": "#cccccc"
             }
           },
-          "text3": "2203 sw 138 ct, 33175 Miami,FL",
+          "text3": "15015 SW 24 Street&nbsp;Miami, FL 33185<br>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -814,8 +817,8 @@
           },
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-white\">Adelcollado@miamiartsstudio.com</a>",
           "title1": "Categories",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: Adelcollado@miamiartsstudio.com<br>Phone: (786)-443-5122<br><br><br><strong>Address</strong><br>15015 SW 24th Street, Miami, FL 33185<br>",
+          "text5": "<li><i><a class=\"text-white\" href=\"#\">I</a>NTRODUCTION</i></li><li><i><a class=\"text-white\" href=\"#\">A</a>PPLICATIONS</i></li><li><i>APPLICATIONS</i></li><li><i>REFRENCE</i></li><li><i>CERTIFICATIONS</i></li>",
+          "text6": "<strong>Contacts</strong><br>Email: Adelcollado@miamiartsstudio.com<br>Phone: (786)-443-5122<br><br><br><strong>Address</strong><br>15015 SW 24 Street<br>Miami, FL 33185<br>",
           "form": {
             "title": "MESSAGE",
             "action": "adelcollado@miamiartsstudio.com",
@@ -1135,6 +1138,9 @@
             },
             "STRONG": {
               "color": "#efefef"
+            },
+            "I": {
+              "color": "#efefef"
             }
           },
           "_anchor": "contacts3-y",
@@ -1195,7 +1201,7 @@
               "color": "#cccccc"
             }
           },
-          "text3": "2203 sw 138 ct, 33175 Miami,FL",
+          "text3": "15015 SW 24 Street&nbsp;Miami, FL 33185<br>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -1209,8 +1215,8 @@
           },
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-white\">Adelcollado@miamiartsstudio.com</a>",
           "title1": "Categories",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: Adelcollado@miamiartsstudio.com<br>Phone: (786)-443-5122<br><br><br><strong>Address</strong><br>2203 sw 138 ct, 33175 Miami,FL<br>",
+          "text5": "<li><i><a class=\"text-white\" href=\"#\">I</a>NTRODUCTION</i></li><li><i><a class=\"text-white\" href=\"#\">A</a>PPLICATIONS</i></li><li><i>APPLICATIONS</i></li><li><i>REFRENCE</i></li><li><i>CERTIFICATIONS</i></li>",
+          "text6": "<strong>Contacts</strong><br>Email: Adelcollado@miamiartsstudio.com<br>Phone: (786)-443-5122<br><br><br><strong>Address</strong><br>15015 SW 24 Street<br>Miami, FL 33185<br>",
           "form": {
             "title": "MESSAGE",
             "action": "adelcollado@miamiartsstudio.com",

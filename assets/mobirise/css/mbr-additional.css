@@ -571,6 +571,9 @@ h6,
 #contacts3-y STRONG {
   color: #efefef;
 }
+#contacts3-y I {
+  color: #efefef;
+}
 #ext_menu-w .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -646,5 +649,8 @@ h6,
   color: #efefef;
 }
 #contacts3-y STRONG {
+  color: #efefef;
+}
+#contacts3-y I {
   color: #efefef;
 }
