@@ -715,6 +715,19 @@ h6,
 #ext_menu-1g .dropdown-item[aria-expanded="true"] {
   color: #b8312f!important;
 }
+#msg-box8-1j .mbr-section-title,
+#msg-box8-1j p {
+  color: #fff;
+}
+#msg-box8-1j .lead BLOCKQUOTE {
+  color: #efefef;
+}
+#msg-box8-1j .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box8-1j .lead B {
+  color: #ffffff;
+}
 #contacts3-1i H4 {
   color: #efefef;
 }
