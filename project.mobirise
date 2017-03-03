@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Angel Del Collado Site",
-    "currentPage": "index",
+    "currentPage": "landing",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 57,
+    "uniqCompNum": 63,
     "versionPublish": "3.11.1",
     "path": "file:///C:/Users/0221719/Desktop",
     "screenshot": "screenshot.png",
@@ -208,7 +208,7 @@
             "Theme"
           ],
           "_name": "header4",
-          "_anchor": "header4-17",
+          "_anchor": "header4-1l",
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
@@ -307,7 +307,7 @@
             "bgColor": "#fff",
             "showBullets": true
           },
-          "_anchor": "slider-18",
+          "_anchor": "slider-1m",
           "articleLayout": false
         },
         {
@@ -325,8 +325,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x1353-800x541.jpg",
-                "image": "@PROJECT_PATH@/assets/images/untitled-2000x1353.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x1353-800x541-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2000x1353-2.jpg",
                 "caption": "Illustrator PostCard Front Piece",
                 "active": false
               },
@@ -335,8 +335,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-1-2000x1353-800x541.jpg",
-                "image": "@PROJECT_PATH@/assets/images/untitled-1-2000x1353.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-1-2000x1353-800x541-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-1-2000x1353-2.jpg",
                 "caption": "Illustrator PostCard Back Piece",
                 "active": false
               },
@@ -345,7 +345,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/image-1-2000x1353-800x541.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/image-1-2000x1353-800x541-3.jpg",
                 "image": "@PROJECT_PATH@/assets/images/image-1-2000x1353.jpg",
                 "caption": "PhotoShop Perspective Piece",
                 "active": false
@@ -355,8 +355,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-2-2000x1353-800x541.jpg",
-                "image": "@PROJECT_PATH@/assets/images/untitled-2-2000x1353.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2-2000x1353-800x541-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2-2000x1353-2.jpg",
                 "caption": "Orchestra PhotoShop&nbsp;Piece",
                 "active": true
               }
@@ -369,7 +369,7 @@
             "fullWidth": false,
             "showBullets": true
           },
-          "_anchor": "gallery2-x",
+          "_anchor": "gallery2-1n",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -379,7 +379,7 @@
             "Theme"
           ],
           "_name": "features6",
-          "_anchor": "features6-1f",
+          "_anchor": "features6-1o",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -506,13 +506,13 @@
             "Theme"
           ],
           "_name": "social-buttons4",
-          "_anchor": "social-buttons4-14",
+          "_anchor": "social-buttons4-1q",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/landscape-nature-clouds-cloudy-2000x767.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/landscape-nature-clouds-cloudy-2000x767-2.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": false,
