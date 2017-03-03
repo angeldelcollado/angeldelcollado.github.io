@@ -17,12 +17,13 @@
         "textFont": "Raleway",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": false,
+        "isRtl": false
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 63,
-    "versionPublish": "3.11.1",
+    "uniqCompNum": 64,
+    "versionPublish": "3.12.1",
     "path": "file:///C:/Users/0221719/Desktop",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/file-000-1-128x170.png",
@@ -203,18 +204,23 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html#content6-4\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
-          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header4",
-          "_anchor": "header4-1l",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1r",
           "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": false,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
               "width": 1280,
@@ -224,15 +230,14 @@
             "bgVideoRadio": true,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "right",
+            "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButton": false
           },
-          "title": "",
-          "text": "My &nbsp;First YouTube Video",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://www.youtube.com/user/MultiAngel136\" data-toolbar=\"-mbrBtnMove\">Visit my Youtube Channel</a>"
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [
@@ -251,11 +256,11 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "overlayOpacity": "0.7",
+                "overlayOpacity": "0.5",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "Time Lapse Drawing",
-                "showText": true,
+                "showText": false,
                 "text": "This is so far my not finished drawing",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Veiw Full Gallery</a> "
