@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Angel Del Collado Site",
-    "currentPage": "introduction",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1100,7 +1100,7 @@
         }
       ]
     },
-    "introduction": {
+    "page2.html": {
       "settings": {
         "main": true,
         "title": "Angel Del Collado",
