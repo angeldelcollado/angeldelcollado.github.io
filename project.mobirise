@@ -1859,7 +1859,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-4-2000x9428.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-4-2000x94210.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1874,7 +1874,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-5-2000x11089.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-5-2000x110811.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2165,7 +2165,7 @@
                 "overlay": true,
                 "overlayOpacity": "0.5",
                 "contentAlign": "center",
-                "showTitle": true,
+                "showTitle": false,
                 "title": "Time Lapse Drawing",
                 "showText": false,
                 "text": "This is so far my not finished drawing",
@@ -2173,8 +2173,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Veiw Full Gallery</a> "
               }
             ],
-            "fullScreen": true,
-            "bgColor": "#fff",
+            "fullScreen": false,
+            "bgColor": "#7e7e7e",
             "showBullets": true
           },
           "_anchor": "slider-1m",
