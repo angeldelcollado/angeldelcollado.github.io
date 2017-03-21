@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Angel Del Collado Site",
-    "currentPage": "index",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1580,7 +1580,7 @@
         }
       ]
     },
-    "introduction": {
+    "page2.html": {
       "settings": {
         "main": true,
         "title": "Angel Del Collado",
@@ -1859,7 +1859,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-4-2000x9426.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-4-2000x9428.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1874,7 +1874,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-5-2000x11087.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-5-2000x11089.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
