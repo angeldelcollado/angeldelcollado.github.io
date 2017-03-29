@@ -807,9 +807,12 @@ h6,
 #ext_menu-u .dropdown-item[aria-expanded="true"] {
   color: #b8312f!important;
 }
-#msg-box8-1r .mbr-section-title,
-#msg-box8-1r p {
+#msg-box6-27 .mbr-section-title,
+#msg-box6-27 .lead p {
   color: #fff;
+}
+#msg-box6-27 H3 {
+  font-size: 46px;
 }
 #social-buttons4-1q .mbr-section-title,
 #social-buttons4-1q .btn-social {
@@ -822,5 +825,17 @@ h6,
   color: #efefef;
 }
 #contacts3-y I {
+  color: #efefef;
+}
+#form1-24 .form-control-label {
+  color: #232323;
+}
+#contacts3-23 H4 {
+  color: #efefef;
+}
+#contacts3-23 STRONG {
+  color: #efefef;
+}
+#contacts3-23 I {
   color: #efefef;
 }

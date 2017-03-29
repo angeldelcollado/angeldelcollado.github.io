@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Angel Del Collado Site",
-    "currentPage": "page3.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 73,
+    "uniqCompNum": 80,
     "versionPublish": "3.11.1",
     "path": "file:///C:/Users/0221719/Desktop",
     "screenshot": "screenshot.png",
@@ -124,7 +124,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Adobe Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Adobe PhotoShop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" style=\"text-align: left; display: inline !important;\"></a><br></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Discuss IT\">Discuss It Topic 6</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Microsoft Projects<br></a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher Recommendation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Certification.pdf\" target=\"_blank\">Photoshop&nbsp;<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"line-height: 1.5; background-color: rgb(0, 0, 0); display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Resume</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\" style=\"background-color: rgb(255, 255, 255); display: inline !important;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; INTRODUCTION</a><br></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Adobe Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Adobe PhotoShop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" style=\"text-align: left; display: inline !important;\"></a><br></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Discuss IT\">Discuss It Topic 6</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Microsoft Projects<br></a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher Recommendation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Certification.pdf\" target=\"_blank\">Photoshop&nbsp;<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"line-height: 1.5; background-color: rgb(0, 0, 0); display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Resume</a></li>"
         },
         {
           "_tags": [
@@ -182,6 +182,69 @@
           "title": "ANGEL DEL COLLADO",
           "text": "In three words I can sum up everything I've learned about life: it goes on. <br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://angeldelcollado.github.io/page2.html\" data-toolbar=\"-mbrBtnMove\">INTRODUCTION PAGE<br></a> "
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x1353-800x541-3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2000x1353-3.jpg",
+                "caption": "Illustrator PostCard Front Piece",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-1-2000x1353-800x541-3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-1-2000x1353-3.jpg",
+                "caption": "Illustrator PostCard Back Piece",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/image-1-2000x1353-800x541-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/image-1-2000x1353.jpg",
+                "caption": "PhotoShop Perspective Piece",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2-2000x1353-800x541-3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2-2000x1353-3.jpg",
+                "caption": "Orchestra PhotoShop&nbsp;Piece",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": true,
+            "filter": false,
+            "bgColor": "#262626",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-25",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_inherit": "social-buttons2",
@@ -427,7 +490,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Adobe Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Adobe PhotoShop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" style=\"text-align: left; display: inline !important;\"></a><br></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Discuss IT\">Discuss It Topic 6</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Microsoft Projects<br></a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher Recommendation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Certification.pdf\" target=\"_blank\">Photoshop&nbsp;<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"line-height: 1.5; background-color: rgb(0, 0, 0); display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Resume</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\" style=\"background-color: rgb(255, 255, 255); display: inline !important;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; INTRODUCTION</a><br></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Adobe Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Adobe PhotoShop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" style=\"text-align: left; display: inline !important;\"></a><br></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Discuss IT\">Discuss It Topic 6</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Microsoft Projects<br></a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher Recommendation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Certification.pdf\" target=\"_blank\">Photoshop&nbsp;<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"line-height: 1.5; background-color: rgb(0, 0, 0); display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Resume</a></li>"
         },
         {
           "_tags": [
@@ -1202,7 +1265,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Adobe Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Adobe PhotoShop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" style=\"text-align: left; display: inline !important;\"></a><br></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Discuss IT\">Discuss It Topic 6</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Microsoft Projects<br></a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher Recommendation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Certification.pdf\" target=\"_blank\">Photoshop&nbsp;<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"line-height: 1.5; background-color: rgb(0, 0, 0); display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Resume</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\" style=\"background-color: rgb(255, 255, 255); display: inline !important;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; INTRODUCTION</a><br></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Adobe Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Adobe PhotoShop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" style=\"text-align: left; display: inline !important;\"></a><br></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Discuss IT\">Discuss It Topic 6</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Microsoft Projects<br></a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher Recommendation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Certification.pdf\" target=\"_blank\">Photoshop&nbsp;<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"line-height: 1.5; background-color: rgb(0, 0, 0); display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Resume</a></li>"
         },
         {
           "_tags": [
@@ -1585,7 +1648,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Adobe Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Adobe PhotoShop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" style=\"text-align: left; display: inline !important;\"></a><br></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Discuss IT\">Discuss It Topic 6</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Microsoft Projects<br></a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher Recommendation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Certification.pdf\" target=\"_blank\">Photoshop&nbsp;<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"line-height: 1.5; background-color: rgb(0, 0, 0); display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Resume</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\" style=\"background-color: rgb(255, 255, 255); display: inline !important;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; INTRODUCTION</a><br></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Adobe Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Adobe PhotoShop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" style=\"text-align: left; display: inline !important;\"></a><br></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Discuss IT\">Discuss It Topic 6</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Microsoft Projects<br></a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher Recommendation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Certification.pdf\" target=\"_blank\">Photoshop&nbsp;<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"line-height: 1.5; background-color: rgb(0, 0, 0); display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Resume</a></li>"
         },
         {
           "_tags": [
@@ -1934,7 +1997,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Adobe Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Adobe PhotoShop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" style=\"text-align: left; display: inline !important;\"></a><br></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Discuss IT\">Discuss It Topic 6</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Microsoft Projects<br></a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher Recommendation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Certification.pdf\" target=\"_blank\">Photoshop&nbsp;<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"line-height: 1.5; background-color: rgb(0, 0, 0); display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Resume</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" aria-expanded=\"false\" style=\"background-color: rgb(255, 255, 255); display: inline !important;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; INTRODUCTION</a><br></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Adobe Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Adobe PhotoShop<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">Adobe Illustrator<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" style=\"text-align: left; display: inline !important;\"></a><br></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Microsoft Suite<br></a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Discuss IT\">Discuss It Topic 6</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Microsoft Projects<br></a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher Recommendation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"angeldelcollado.github.io/Certification.pdf\" target=\"_blank\">Photoshop&nbsp;<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\" style=\"line-height: 1.5; background-color: rgb(0, 0, 0); display: inline !important;\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/\">Resume</a></li>"
         },
         {
           "_tags": [
@@ -2009,42 +2072,6 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html#content6-4\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-1r",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "5",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/gbDS0sNeFfo?rel=0&amp;showinfo=0&autoplay=0&loop=0"
-            },
-            "bgVideoRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showText": false,
-            "showButton": true
-          },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://www.youtube.com/channel/UCj3OI0XO9n0vOy3Sk0GuTGw\" data-toolbar=\"-mbrBtnMove\">View My YouTube Channel</a>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -2057,7 +2084,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-1-2000x200012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-1-2000x200048.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2072,7 +2099,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-1-2000x200012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-1-2000x200048.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2086,7 +2113,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-3-2000x200013.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-3-2000x200049.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2100,7 +2127,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-2-2000x200014.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-2-2000x200050.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2114,7 +2141,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-4-2000x94215.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-4-2000x94251.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2129,7 +2156,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-5-2000x110816.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-5-2000x110852.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2144,7 +2171,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-15-2000x200017.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-15-2000x200053.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2159,7 +2186,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-21-2000x200018.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-21-2000x200054.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2174,7 +2201,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-22-2000x200019.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-22-2000x200055.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2189,7 +2216,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-23-2000x200020.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-23-2000x200056.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2204,7 +2231,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-25-2000x200021.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-25-2000x200057.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2219,7 +2246,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-76-2000x117922.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-76-2000x117958.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2234,7 +2261,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-57-2000x111523.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-57-2000x111559.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2249,7 +2276,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-755-2000x200024.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-755-2000x200060.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2264,7 +2291,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-85-2000x200025.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-85-2000x200061.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2279,7 +2306,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-6-2000x200026.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-6-2000x200062.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2294,7 +2321,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-26-2000x200027.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-26-2000x200063.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2309,7 +2336,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-27-2000x200028.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-27-2000x200064.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2324,7 +2351,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-28-2000x200029.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-28-2000x200065.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2339,7 +2366,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-29-2000x200030.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-29-2000x200066.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2354,7 +2381,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-31-2000x200031.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-31-2000x200067.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2369,7 +2396,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-30-2000x200032.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-30-2000x200068.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2384,7 +2411,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-32-2000x200033.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-32-2000x200069.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2399,7 +2426,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-42-2000x200034.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-42-2000x200070.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2414,7 +2441,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/finished-art-2000x200035.jpg",
+                "image": "@PROJECT_PATH@/assets/images/finished-art-2000x200071.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2436,67 +2463,68 @@
           "articleLayout": false
         },
         {
-          "_inherit": "gallery1",
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            },
+            "H3": {
+              "font-size": "46px"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery2",
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-27",
           "_params": {
+            "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x1353-800x541-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/untitled-2000x1353-2.jpg",
-                "caption": "Illustrator PostCard Front Piece",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-1-2000x1353-800x541-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/untitled-1-2000x1353-2.jpg",
-                "caption": "Illustrator PostCard Back Piece",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/image-1-2000x1353-800x541-3.jpg",
-                "image": "@PROJECT_PATH@/assets/images/image-1-2000x1353.jpg",
-                "caption": "PhotoShop Perspective Piece",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/untitled-2-2000x1353-800x541-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/untitled-2-2000x1353-2.jpg",
-                "caption": "Orchestra PhotoShop&nbsp;Piece",
-                "active": true
-              }
-            ],
-            "spacing": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": ""
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
             "showText": true,
-            "filter": false,
-            "bgColor": "#262626",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            "showButtons": false
           },
-          "_anchor": "gallery2-1n",
-          "articleLayout": false,
-          "allItem": "All"
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/B5bdsFG4gEM",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "linkInNewWindow": false,
+              "name": "youtube",
+              "family": "socicon",
+              "link": "",
+              "size": 250,
+              "color": "#b8312f"
+            }
+          },
+          "title": "Self Introduction Video",
+          "text": "This is an introduction of my life and skills",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "features3",
@@ -2664,6 +2692,211 @@
             }
           },
           "_anchor": "contacts3-y",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/camera-wallpaper-3-2000x1250.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#3c3c3c"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/untitled-265x212.png",
+              "class": "card-img-top",
+              "width": 265,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "linkInNewWindow": false,
+              "name": "compass",
+              "family": "et-line",
+              "link": "",
+              "size": 0,
+              "active": true,
+              "color": "#efefef"
+            }
+          },
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text2": "(786)-443-5122<br>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text3": "15015 SW 24 Street&nbsp;Miami, FL 33185<br>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "envelope",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#cccccc"
+            }
+          },
+          "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-white\">Adelcollado@miamiartsstudio.com</a>",
+          "title1": "Categories",
+          "text5": "<li><i><a class=\"text-white\" href=\"#\">I</a>NTRODUCTION</i></li><li><i>APPLICATIONS</i></li><li><i>APPLICATIONS</i></li><li><i>REFRENCE</i></li><li><i>CERTIFICATIONS</i></li>",
+          "text6": "<strong>Contacts</strong><br>Email: Adelcollado@miamiartsstudio.com<br>Phone: (786)-443-5122<br><br><br><strong>Address</strong><br>15015 SW 24 Street<br>Miami, FL 33185<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "adelcollado@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for informing us out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "title": "Web Builder Title",
+        "meta_descr": "Web Builder Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-22",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Angel Del Collado. All Rights Reserved."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-24",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "adelcollado@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "H4": {
+              "color": "#efefef"
+            },
+            "STRONG": {
+              "color": "#efefef"
+            },
+            "I": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "contacts3-23",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
