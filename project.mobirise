@@ -184,6 +184,70 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://angeldelcollado.github.io/page2.html\" data-toolbar=\"-mbrBtnMove\">INTRODUCTION PAGE<br></a> "
         },
         {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "32px",
+              "color": "#c1c1c1"
+            },
+            ".btn": {
+              "font-size": "10px"
+            }
+          },
+          "_anchor": "msg-box4-2b",
+          "_params": {
+            "imageSize": "32",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "youtube",
+              "family": "socicon",
+              "link": "https://www.youtube.com/channel/UCj3OI0XO9n0vOy3Sk0GuTGw",
+              "size": "150",
+              "color": "#b8312f",
+              "active": true,
+              "newWindow": true
+            }
+          },
+          "title": "View My Introduction Video",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=B5bdsFG4gEM\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My Video</a>"
+        },
+        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
@@ -392,70 +456,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact me</a>"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_styles": {
-            "H3": {
-              "font-size": "32px",
-              "color": "#c1c1c1"
-            },
-            ".btn": {
-              "font-size": "10px"
-            }
-          },
-          "_anchor": "msg-box4-2b",
-          "_params": {
-            "imageSize": "32",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1328.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#000000",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "linkInNewWindow": false,
-              "name": "youtube",
-              "family": "socicon",
-              "link": "https://www.youtube.com/channel/UCj3OI0XO9n0vOy3Sk0GuTGw",
-              "size": "150",
-              "color": "#b8312f",
-              "active": true,
-              "newWindow": false
-            }
-          },
-          "title": "View My Introduction Video",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=B5bdsFG4gEM\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My Video</a>"
         }
       ]
     },
@@ -2148,7 +2148,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-1-2000x200024.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-1-2000x200048.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2163,7 +2163,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-1-2000x200024.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-1-2000x200048.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2177,7 +2177,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-3-2000x200025.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-3-2000x200049.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2191,7 +2191,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-2-2000x200026.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-2-2000x200050.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2205,7 +2205,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-4-2000x94227.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-4-2000x94251.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2220,7 +2220,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-5-2000x110828.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-5-2000x110852.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2235,7 +2235,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-15-2000x200029.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-15-2000x200053.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2250,7 +2250,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-21-2000x200030.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-21-2000x200054.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2265,7 +2265,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-22-2000x200031.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-22-2000x200055.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2280,7 +2280,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-23-2000x200032.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-23-2000x200056.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2295,7 +2295,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-25-2000x200033.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-25-2000x200057.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2310,7 +2310,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-76-2000x117934.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-76-2000x117958.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2325,7 +2325,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-57-2000x111535.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-57-2000x111559.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2340,7 +2340,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-755-2000x200036.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-755-2000x200060.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2355,7 +2355,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-85-2000x200037.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-85-2000x200061.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2370,7 +2370,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-6-2000x200038.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-6-2000x200062.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2385,7 +2385,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-26-2000x200039.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-26-2000x200063.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2400,7 +2400,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-27-2000x200040.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-27-2000x200064.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2415,7 +2415,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-28-2000x200041.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-28-2000x200065.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2430,7 +2430,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-29-2000x200042.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-29-2000x200066.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2445,7 +2445,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-31-2000x200043.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-31-2000x200067.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2460,7 +2460,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-30-2000x200044.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-30-2000x200068.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2475,7 +2475,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-32-2000x200045.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-32-2000x200069.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2490,7 +2490,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-42-2000x200046.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel-del-collado-pre-drawing-42-2000x200070.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -2505,7 +2505,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/finished-art-2000x200047.jpg",
+                "image": "@PROJECT_PATH@/assets/images/finished-art-2000x200071.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
