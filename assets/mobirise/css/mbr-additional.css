@@ -497,6 +497,10 @@ h6,
 #contacts3-y I {
   color: #efefef;
 }
+#msg-box4-2b H3 {
+  font-size: 36px;
+  color: #c1c1c1;
+}
 #ext_menu-1a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -806,13 +810,6 @@ h6,
 #ext_menu-u .link[aria-expanded="true"],
 #ext_menu-u .dropdown-item[aria-expanded="true"] {
   color: #b8312f!important;
-}
-#msg-box6-27 .mbr-section-title,
-#msg-box6-27 .lead p {
-  color: #fff;
-}
-#msg-box6-27 H3 {
-  font-size: 46px;
 }
 #social-buttons4-1q .mbr-section-title,
 #social-buttons4-1q .btn-social {
