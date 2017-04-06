@@ -6,6 +6,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -485,6 +486,15 @@ h6,
 }
 #header1-v .mbr-section-title {
   color: #b8312f;
+}
+#msg-box6-2c .mbr-section-title,
+#msg-box6-2c .lead p {
+  color: #fff;
+}
+#msg-box6-2c H3 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 36px;
+  text-align: center;
 }
 #msg-box4-2b H3 {
   font-size: 48px;
