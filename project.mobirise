@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Angel Del Collado Site",
-    "currentPage": "index",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -300,7 +300,7 @@
               "linkInNewWindow": false,
               "name": "youtube",
               "family": "socicon",
-              "link": "https://youtu.be/xnJs4-MMJdQ",
+              "link": "https://www.youtube.com/watch?v=NaED0X7kW6o&t=3s",
               "size": "150",
               "color": "#b8312f",
               "active": true,
